@@ -1,0 +1,13 @@
+aws cloud is a amazon web service is a cloud service which provides computing ,storage,data base,secrity,management tools,developer tools available on demand,pay as you go0 pricing
+
+identity access management help you to securely access awsb resouces,and also set permission to who can authenticated and authorised 
+to use aws resources.
+
+simple storage service is an object storage scalable service ,we can  store any amount of data to the bucket
+
+elastic block storage which is used with instance as persistent volume, the because data never lose untill we delete the volume 
+ 
+auto scaling is a scalable service ensure the number of instance to handle the incoming traffic, we can set like manual policy like minimum,desired and maximum
+ 
+load balancing distribute the incoming traffic equally to the instance,container. which only rote traffic to the helthier instance only
+
